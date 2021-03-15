@@ -6,7 +6,7 @@ This repository contains the required source code to build the documentation for
 
 # Lab Guide
 
-To access the lab guide go [here](https://userlerueda.github.io/HOLPRG-2002/)
+To access the lab guide go [here](https://CiscoLive2021.github.io/HOLPRG-2002/)
 
 ## Authors
 
